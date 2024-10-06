@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi!
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on [technologies you're working with, e.g., full-stack development, machine learning, game development, etc.]. I love building and sharing open-source projects, experimenting with new technologies, and collaborating with others.
 
