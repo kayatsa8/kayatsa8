@@ -30,6 +30,9 @@ Check out [all my repositories](https://github.com/kayatsa8?tab=repositories) fo
 ## 📈 GitHub Stats
 
 ![kayatas8's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayatsa8&show_icons=true&theme=radical)
+<!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayatsa8&layout=compact&theme=radical" alt="Most Used Languages"  width="400"/>
+
 
 ## 🌱 What I'm Currently Learning
 
