@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on backend
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,python,cpp,go,cs,c" /><br>
-    <img src="https://skillicons.dev/icons?i=spring,flask,docker,aws,mongodb,mysql,sqlite,git,github,elasticsearch,maven,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,flask,docker,aws,mongodb,mysql,sqlite,git,github,elasticsearch,maven,postman,unity" /><br>
     <img src="https://skillicons.dev/icons?i=idea,pycharm,clion,vscode" /><br>
 </div>
   
@@ -14,22 +14,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on backend
 
 Here are some of my public repositories:
 
-### 🔧 [Project 1 Name](https://github.com/yourusername/project1)
-- **Description:** Brief description of the project (e.g., A tool for X, a game built with Unity, etc.)
-- **Tech Stack:** Technologies used (e.g., Python, Flask, etc.)
-- **Features:** Key features (e.g., user authentication, API integration, etc.)
+### 🏀 [StarshipNBA](https://github.com/kayatsa8/StarshipNBA)
+- **Description:** A multi-microservice RESTful API application, designed to demonstrate the use of microservice architecture by integrating various public APIs.
+- **Tech Stack:** Java, Spring, MongoDB, ELK Stack, Zipkin, Docker, AWS ECS.
+- **Features:** Cloud, API integration, Database, Web Interface.
 
-### 🎮 [Project 2 Name](https://github.com/yourusername/project2)
-- **Description:** Brief description (e.g., A 2D platformer game built with Unity, etc.)
-- **Tech Stack:** Technologies used (e.g., C#, Unity)
-- **Features:** Key features (e.g., physics-based character controls, etc.)
+### 🧮 [NumericalMethods](https://github.com/kayatsa8/NumericalMethods)
+- **Description:** Inspired by a university course by the same name, Numerical Methods can calculate and solve tasks similar to those given in class.
+The project is based on RESTful API Microservice architecture, where each Microservice is dedicated to a different field of Numerical Methods.
+- **Tech Stack:** Python, Go, Flask, Chi.
+- **Features:** API.
 
-### 🔬 [Project 3 Name](https://github.com/yourusername/project3)
-- **Description:** Brief description (e.g., A machine learning model for predicting X)
-- **Tech Stack:** Technologies used (e.g., Python, TensorFlow, etc.)
-- **Features:** Key features (e.g., trained on large datasets, high accuracy, etc.)
-
-Check out [all my repositories](https://github.com/yourusername?tab=repositories) for more!
+Check out [all my repositories](https://github.com/kayatsa8?tab=repositories) for more!
 
 ## 📈 GitHub Stats
 
