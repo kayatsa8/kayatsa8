@@ -29,24 +29,23 @@ Check out [all my repositories](https://github.com/kayatsa8?tab=repositories) fo
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![kayatas8's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayatsa8&show_icons=true&theme=radical)
 
 ## 🌱 What I'm Currently Learning
 
-- [New tech/skills you're currently focusing on, e.g., GraphQL, Rust, etc.]
-- [Another tech/skill you're learning]
+- React
+- Kubernetes
+- Machine Learning & Deep Learning
 
 ## 👯 Let's Collaborate!
 
-- I'm open to collaborating on interesting open-source projects, especially in [your main areas of focus, e.g., game development, AI, etc.]
+- I'm open to collaborating on interesting open-source projects, especially in backend development & machine learning.
 - Feel free to open issues or contribute to my projects through pull requests.
 
 ## 💬 Let's Connect!
 
-- [Portfolio website or blog, if applicable]
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Email: your.email@example.com]
+- [LinkedIn](https://www.linkedin.com/in/sagikayat/)
+- [Email: kayatsa8@gmail.com]
 
 ---
 
