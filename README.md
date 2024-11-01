@@ -36,6 +36,7 @@ Check out [all my repositories](https://github.com/kayatsa8?tab=repositories) fo
 
 ## 🌱 What I'm Currently Learning
 
+- JavaScript & TypeScript
 - React
 - Kubernetes
 - Machine Learning & Deep Learning
