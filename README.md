@@ -25,7 +25,7 @@ The project is based on RESTful API Microservice architecture, where each Micros
 - **Tech Stack:** Python, Go, Flask, Chi.
 - **Features:** API.
 
-### 📝[ProjectManager](https://github.com/kayatsa8/ProjectManager)
+### 📝 [ProjectManager](https://github.com/kayatsa8/ProjectManager)
 - **Description:** An application to manage my ideas for personal projects, made of a single RESTful API Microservice for backend and a frontend component.
 - **Tech Stack:** Python, Flask, JavaScript, React.js, MongoDB.
 - **Features:** API, Database, Web Client.
