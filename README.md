@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on backend
 ## 🛠️ Technologies & Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,go,cs,c" /><br>
-    <img src="https://skillicons.dev/icons?i=spring,flask,docker,aws,mongodb,mysql,sqlite,git,github,elasticsearch,maven,postman,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,go,cs,c,javascript,typescript" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,flask,docker,aws,mongodb,mysql,sqlite,git,github,elasticsearch,maven,postman,unity,react" /><br>
     <img src="https://skillicons.dev/icons?i=idea,pycharm,clion,vscode" /><br>
 </div>
   
